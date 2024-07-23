@@ -1,0 +1,5 @@
+node_modules/
+.next/
+.vscode/
+.husky/
+package-lock.json
