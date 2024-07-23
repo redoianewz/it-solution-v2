@@ -86,7 +86,7 @@ export const footerSectionData: FooterSectionProps = {
   },
   footerBottom: {
     copyrightText: '© 2024 All Rights Reserved',
-    version: 'v1.0.0',
+    version: 'v1.0.1',
     links: [
       {
         label: 'Trams & Condition',
