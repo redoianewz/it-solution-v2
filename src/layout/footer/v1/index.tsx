@@ -29,6 +29,7 @@ export interface FooterSectionProps {
   about: {
     description: string;
     socialLinks: SocialLinkProps[];
+    
   };
   columnOne: {
     title: string;

@@ -35,7 +35,7 @@ export default function Page() {
       <TestimonialSection />
       <StatisticsSection />
       <BlogSection />
-      <Footer className="dark:bg-accent-900" footerTopClassName="dark:!pt-0" />
+      <Footer/>
     </>
   );
 }
